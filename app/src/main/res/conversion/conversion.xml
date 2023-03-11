@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="conversion_unit">
+<item>Kilometer to Meter</item>
+<item>Inche(s) to Feet</item>
+<item>Celcius to Farenheit</item>
+<item>Centimeter to Millimeter</item>
+<item>Kilograms to Pounds</item>
+<item>Centimeters to Inches</item>
+</string-array>
+</resources>
