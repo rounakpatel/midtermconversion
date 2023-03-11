@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    // Defines an array of string resources for conversion units
     <string-array name="conversion_unit">
         <item>Kilometer to Meter</item>
         <item>Inche(s) to Feet</item>

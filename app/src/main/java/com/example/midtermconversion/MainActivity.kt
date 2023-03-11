@@ -30,9 +30,7 @@ class MainActivity : AppCompatActivity(), AdapterView.OnItemSelectedListener {
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item)
         spinnerConversionFrom.adapter = adapter
 
-        /*
-        Implemented the textwatcher class to display the result
-        of the conversion automatically. */
+        // Implemented the textwatcher class to display the result of the conversion automatically.
         val textWatcher = object : TextWatcher {
             override fun beforeTextChanged(s: CharSequence?, start: Int, count: Int, after: Int) {}
 
